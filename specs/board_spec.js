@@ -9,6 +9,5 @@ describe ('Board', function() {
   });
 
   it ('Board is empty', function() {
-    assert.strictEqual('Jack', player.name);
   });
 });
