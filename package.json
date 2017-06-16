@@ -1,0 +1,17 @@
+{
+  "name": "js_connect_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
